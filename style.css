@@ -1,0 +1,52 @@
+#btnn{
+    background-color: lightsalmon;
+    padding: 12px;
+    border: 0;
+    margin: 40px;
+    border: solid;
+}
+#btnn2{
+    background-color: lightsalmon;
+    padding: 12px;
+    border: 0;
+    margin: 20px;
+    border: solid;
+}
+
+p{
+    color: darkred ;
+    margin: 20px;
+}
+
+
+ul li:nth-child(odd){
+    background:rosybrown;
+}
+
+#ul1{
+    /*background-color: darkred;*/
+    width: 200;
+    
+}
+input[type="text"] {
+    
+    padding: 10px;
+	color: darkred;
+    margin: 20px;
+    border: solid , black;
+
+	
+}
+
+#My_ToDo{
+    padding-bottom: 80px;
+    padding-top: 40px;
+    margin-left: 120px;
+    background-color: darkseagreen;
+    width: 600;
+}
+
+#my_img{
+padding-top: 40px;
+margin-left: 160px;
+}
